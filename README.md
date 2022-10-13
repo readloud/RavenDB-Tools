@@ -14,9 +14,9 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 
 > [CLOUD HOSTING](https://cloud.ravendb.net/)
 
-> Request your [license](https://ravendb.net/free).
+> Request [your license](https://ravendb.net/free).
 
-> Download the [latest version of RavenDB](https://ravendb.net/download).
+> Download [the latest version of RavenDB](https://ravendb.net/download).
 
 
 ## All new features 
