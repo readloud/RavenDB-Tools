@@ -20,7 +20,7 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 
 ### All you need to know about RavenDB
 
-* New to RavenDB? See what it [offers](https://ravendb.net/why-ravendb) and get started with our extensive library of [learning](https://ravendb.net/learn) materials.
+New to RavenDB? See what it [offers](https://ravendb.net/why-ravendb) and get started with our extensive library of [learning](https://ravendb.net/learn) materials.
 
 ### Multi-document ACID Transactions
 
