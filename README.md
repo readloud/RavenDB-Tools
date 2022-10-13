@@ -12,9 +12,12 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 
 > GRAFANA INTEGRATION
 
-> [DOWNLOAD](https://ravendb.net/download)
-
 > [CLOUD HOSTING](https://cloud.ravendb.net/)
+
+> Request your [license](https://ravendb.net/free).
+
+> Download the [latest version of RavenDB](https://ravendb.net/download).
+
 
 ## All new features 
 
