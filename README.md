@@ -1,4 +1,7 @@
 # RavenDB-Tools
+
+![image](https://ravendb.net/wp-content/uploads/2021/01/raven_logo.svg)
+
 NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactions
 
 ## NEW IN RAVENDB 5.4
@@ -9,9 +12,9 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 
 > GRAFANA INTEGRATION
 
-[DOWNLOAD](https://ravendb.net/download)
+> [DOWNLOAD](https://ravendb.net/download)
 
-[CLOUD HOSTING](https://cloud.ravendb.net/)
+> [CLOUD HOSTING](https://cloud.ravendb.net/)
 
 ## All new features 
 
