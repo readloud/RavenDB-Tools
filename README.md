@@ -4,14 +4,16 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 ## NEW IN RAVENDB 5.4
 
 > KAFKA ETL
+
 > RABBITMQ ETL
+
 > GRAFANA INTEGRATION
 
-> All new features 
+## All new features 
+
 ### All you need to know about RavenDB
 New to RavenDB? See what it offers and get started with our extensive library of learning materials
-[WHY RAVENDB](https://ravendb.net/why-ravendb)
-[LEARN](https://ravendb.net/learn)
+[WHY RAVENDB](https://ravendb.net/why-ravendb) [LEARN](https://ravendb.net/learn)
 
 ### Multi-document ACID Transactions
 RavenDB is fully transactional
