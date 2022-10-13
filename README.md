@@ -30,12 +30,12 @@ New to RavenDB? See what it [offers](https://ravendb.net/why-ravendb) and get st
 ### Management Studio
 
 * Our GUI makes the user experience enjoyable
-> The GUI allows enjoyable user experience for developers and non-developers alike. It improves the workflow and [simplifies maintenance](https://ravendb.net/why-ravendb/management-studio-gui).
+> The GUI allows enjoyable user experience for developers and non-developers alike. It improves the workflow and [simplifies](https://ravendb.net/why-ravendb/management-studio-gui) maintenance.
 
 ### Powerful Querying
 
 * Full-text search out of the box 
-> RavenDB gives you tools to map your documents with indexes, analyze text and spatial data, project your data into new shapes, and [more](https://ravendb.net/why-ravendb/advanced-query-engine).
+> RavenDB gives you tools to map your documents with indexes, analyze text and spatial data, project your data into new shapes, [and more](https://ravendb.net/why-ravendb/advanced-query-engine).
 
 ### RavenDB Online [Workshops]
 
