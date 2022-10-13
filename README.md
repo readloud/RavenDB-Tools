@@ -109,7 +109,7 @@ A collection of awesome RavenDB resources
 
 ## Content Management Systems
 
-* [https://github.com/brickpile/brickpile](https://github.com/brickpile/brickpile) - lightweight CMS built on RavenDB and ASP.NET MVC 5
+* [Brickpile](https://github.com/brickpile/brickpile) - lightweight CMS built on RavenDB and ASP.NET MVC 5
 
 ## DevOps
 
