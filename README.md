@@ -9,11 +9,16 @@ NoSQL Document Database Easy, Fast, Reliable with Multi-Document ACID Transactio
 
 > GRAFANA INTEGRATION
 
+[DOWNLOAD](https://ravendb.net/download)
+
+[CLOUD HOSTING](https://cloud.ravendb.net/)
+
 ## All new features 
 
 ### All you need to know about RavenDB
-New to RavenDB? See what it offers and get started with our extensive library of learning materials
-[WHY RAVENDB](https://ravendb.net/why-ravendb) [LEARN](https://ravendb.net/learn)
+New to RavenDB? See what it offers and get started with our extensive library of learning materials [WHY RAVENDB](https://ravendb.net/why-ravendb) 
+
+[LEARN](https://ravendb.net/learn)
 
 ### Multi-document ACID Transactions
 RavenDB is fully transactional
@@ -34,6 +39,3 @@ RavenDB gives you tools to map your documents with indexes, analyze text and spa
 Deep dive into practical use of document data modeling
 RavenDB Advanced Best Practices and Performance
 [LEARN MORE](https://workshops.ravendb.net/)
-
-[DOWNLOAD](https://ravendb.net/download)
-[CLOUD HOSTING](https://cloud.ravendb.net/)
